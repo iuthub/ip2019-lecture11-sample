@@ -1,4 +1,4 @@
-# Laravel - Getting Started (Pluralsight Course)
+# Laravel - Getting Started
 This repository holds the starting source code of the "PHP Development with Laravel - Auth & Users" course on Pluralsight.
 
 Clone this repository to start with the same code I start with in this course.
